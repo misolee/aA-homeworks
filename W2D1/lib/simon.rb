@@ -34,7 +34,7 @@ class Simon
 
   def show_sequence
     add_random_color
-    puts @seq[-1]
+    puts @seq
   end
 
   def require_sequence
