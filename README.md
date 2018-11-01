@@ -10,3 +10,13 @@
 
 ⇣ Week 2 Day 2
   ⇢ Mancala.rb
+
+⇣ Week 2 Day 2
+  ⇢ Chef.rb
+  ⇢ Desserts.rb
+  ⇢ ** Writing RSpecs
+
+⇣ Week 2 Day 4
+  ⇢ Big-Octopus and Biggest Fish.rb
+  ⇢ sorting-demo
+  ⇢ ** Sorting & BigO Performance
