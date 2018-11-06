@@ -23,3 +23,6 @@
 
 ⇣ Week 2 Day 5
   ⇢ LRU Cache.rb
+
+⇣ Week 3 Day 2
+  ⇢ SQL
